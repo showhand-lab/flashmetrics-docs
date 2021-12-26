@@ -1,4 +1,4 @@
-# FlashMetrics，让你的监控快如闪电⚡️！
+# FlashMetrics，让你的监控快如闪电⚡️、稳如老狗🐶！
 
 ## 项目介绍
 
